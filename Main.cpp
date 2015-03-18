@@ -45,16 +45,16 @@ int main() {
         
         switch(most){
             case 0:
-                cout << "Guess: Banksy 1: http://polr.me/1cq";
+                cout << "Guess: Banksy 1: http://polr.me/1cq\n";
                 break;
             case 1:
-                cout << "Guess: Banksy 2: http://polr.me/1cr";
+                cout << "Guess: Banksy 2: http://polr.me/1cr\n";
                 break;
             case 2:
-                cout << "Guess: Banksy 3: http://polr.me/1cs";
+                cout << "Guess: Banksy 3: http://polr.me/1cs\n";
                 break;
             case 3:
-                cout << "Guess: Banksy 4: http://polr.me/1ct";
+                cout << "Guess: Banksy 4: http://polr.me/1ct\n";
                 break;
         }
         
